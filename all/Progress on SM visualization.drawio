@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="Q4l1KGVPYJgBLvzZWFMO">
-    <mxGraphModel dx="1653" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="394" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,8 +127,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPso06H5MoMHHk4BvhUW-30" value="Proccessed Data&lt;div&gt;JSON, LPY, etc.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="385.5" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="mPso06H5MoMHHk4BvhUW-30" value="Proccessed Data&lt;div&gt;JSON, PLY, LAS, LAZ, etc.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="380.5" y="210" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPso06H5MoMHHk4BvhUW-33" value="Contained Over 1 million points per layer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;glass=0;shadow=0;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF6666);" parent="1" vertex="1">
           <mxGeometry x="290" y="120" width="141" height="30" as="geometry" />
@@ -205,15 +205,14 @@
         <mxCell id="tqTxI9KeEgAn6n1zyfNj-13" value="Data Tiling" style="text;html=1;whiteSpace=wrap;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="385.5" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqTxI9KeEgAn6n1zyfNj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFFFF);exitX=0.458;exitY=1.021;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="mPso06H5MoMHHk4BvhUW-30" target="tqTxI9KeEgAn6n1zyfNj-7" edge="1">
+        <mxCell id="tqTxI9KeEgAn6n1zyfNj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFFFF);exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mPso06H5MoMHHk4BvhUW-30" target="tqTxI9KeEgAn6n1zyfNj-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="320" as="sourcePoint" />
             <mxPoint x="510.5000000000002" y="390.65999999999997" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="441" y="280" />
+              <mxPoint x="446" y="280" />
               <mxPoint x="520" y="280" />
-              <mxPoint x="520" y="480" />
-              <mxPoint x="511" y="480" />
+              <mxPoint x="520" y="481" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -233,10 +232,10 @@
             <mxPoint x="590" y="619" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXVNhvVcZlTx7jsZQsg--1" value="Lib for back-end application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SXVNhvVcZlTx7jsZQsg--1" value="Lib for back-end application" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380.5" y="360" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXVNhvVcZlTx7jsZQsg--4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.975;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SXVNhvVcZlTx7jsZQsg--1" target="mPso06H5MoMHHk4BvhUW-29">
+        <mxCell id="SXVNhvVcZlTx7jsZQsg--4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.975;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SXVNhvVcZlTx7jsZQsg--1" target="mPso06H5MoMHHk4BvhUW-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="383" y="405" as="sourcePoint" />
             <mxPoint x="330" y="600" as="targetPoint" />
@@ -247,6 +246,19 @@
               <mxPoint x="380" y="530" />
               <mxPoint x="340" y="530" />
               <mxPoint x="370" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-1" value="Finally, LAS works in Cesium ion tiling tool" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPso06H5MoMHHk4BvhUW-33" target="TswElhaaxHEcG3IhaoIX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="492.5" y="120" as="sourcePoint" />
+            <mxPoint x="436.5" y="59" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="140" />
+              <mxPoint x="450" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
