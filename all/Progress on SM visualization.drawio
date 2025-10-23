@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="Q4l1KGVPYJgBLvzZWFMO">
-    <mxGraphModel dx="1722" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="693" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tqTxI9KeEgAn6n1zyfNj-3" value="3D Tileset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="tqTxI9KeEgAn6n1zyfNj-3" value="Cesium 3D Tileset Assets" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="385.5" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tqTxI9KeEgAn6n1zyfNj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tqTxI9KeEgAn6n1zyfNj-7" target="tqTxI9KeEgAn6n1zyfNj-3" edge="1">
@@ -261,6 +261,49 @@
               <mxPoint x="450" y="130" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TswElhaaxHEcG3IhaoIX-4" target="TswElhaaxHEcG3IhaoIX-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255.00000000000023" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-4" value="NetCDF Read" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="590" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-8" value="Data Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="640" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-9" value="Coord. Transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="690" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TswElhaaxHEcG3IhaoIX-8" target="TswElhaaxHEcG3IhaoIX-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="670" as="sourcePoint" />
+            <mxPoint x="255" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="TswElhaaxHEcG3IhaoIX-14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="720" as="sourcePoint" />
+            <mxPoint x="255" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-14" value="LAS Production" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="740" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TswElhaaxHEcG3IhaoIX-9" target="TswElhaaxHEcG3IhaoIX-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="705" as="sourcePoint" />
+            <mxPoint x="100" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="700" />
+              <mxPoint x="150" y="660" />
+              <mxPoint x="110" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TswElhaaxHEcG3IhaoIX-17" value="&lt;div&gt;-LLA2ECEF&lt;/div&gt;-Terrian" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="710" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
