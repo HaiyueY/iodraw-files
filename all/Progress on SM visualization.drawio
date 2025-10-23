@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="Q4l1KGVPYJgBLvzZWFMO">
-    <mxGraphModel dx="1825" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1581" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,7 +123,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPso06H5MoMHHk4BvhUW-30" value="Proccessed Data&lt;div&gt;JSON, PLY, LAS, LAZ, etc.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="mPso06H5MoMHHk4BvhUW-30" value="Proccessed Data&lt;div&gt;GeoJSON, PLY, LAS,&amp;nbsp;&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="380.5" y="210" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPso06H5MoMHHk4BvhUW-33" value="Contained Over 1 million points per layer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;glass=0;shadow=0;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF6666);" parent="1" vertex="1">
@@ -228,7 +228,7 @@
         <mxCell id="SXVNhvVcZlTx7jsZQsg--1" value="Lib for back-end application" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380.5" y="360" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TswElhaaxHEcG3IhaoIX-1" value="Finally, LAS works in Cesium ion tiling tool" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TswElhaaxHEcG3IhaoIX-1" value="Finally, LAS works on Cesium ion tiling tool" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TswElhaaxHEcG3IhaoIX-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPso06H5MoMHHk4BvhUW-33" target="TswElhaaxHEcG3IhaoIX-1">
