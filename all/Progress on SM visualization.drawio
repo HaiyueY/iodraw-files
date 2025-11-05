@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.9" pages="2">
   <diagram name="Page-1" id="Q4l1KGVPYJgBLvzZWFMO">
-    <mxGraphModel dx="1329" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="946" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,7 +348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ayoY4kKbhs1XejBeHWWV-8" value="&lt;font&gt;Hold on, this is graphic only, how can we &lt;/font&gt;&lt;font&gt;&lt;b&gt;retrieve&lt;/b&gt; &lt;/font&gt;&lt;font&gt;the&amp;nbsp;original data after uploaded, tiled, requested, and rendered?&amp;nbsp;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="451.62" y="750.58" width="433.38" height="45.75" as="geometry" />
+          <mxGeometry x="451.62" y="760" width="433.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="axrHhJeuXgGM3-2XKkUg-5" value="Data Retrieval" style="text;html=1;whiteSpace=wrap;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="765" y="220" width="120" height="30" as="geometry" />
@@ -493,7 +493,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u4GjbrJrQv9omhtaKgY_-2" value="Some interaction feature" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u4GjbrJrQv9omhtaKgY_-1" vertex="1" connectable="0">
+        <mxCell id="u4GjbrJrQv9omhtaKgY_-2" value="Some interaction feature, UI &amp;amp; style design" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u4GjbrJrQv9omhtaKgY_-1" vertex="1" connectable="0">
           <mxGeometry x="-0.5071" y="-2" relative="1" as="geometry">
             <mxPoint x="-8" y="-10" as="offset" />
           </mxGeometry>
