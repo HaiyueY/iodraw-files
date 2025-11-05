@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.9" pages="2">
   <diagram name="Page-1" id="Q4l1KGVPYJgBLvzZWFMO">
-    <mxGraphModel dx="1168" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1814" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,7 +280,7 @@
         <mxCell id="TswElhaaxHEcG3IhaoIX-35" value="Depth Exaggerate 100,000 times" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="770" y="750.58" width="110" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fBiYyk5I63UG4HksY0ab-1" value="&lt;div&gt;3D tiles&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fBiYyk5I63UG4HksY0ab-1" value="&lt;div&gt;3D tiles&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="576" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fBiYyk5I63UG4HksY0ab-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fBiYyk5I63UG4HksY0ab-1" target="fBiYyk5I63UG4HksY0ab-3" edge="1">
@@ -503,6 +503,19 @@
         </mxCell>
         <mxCell id="QIYlWhF36AteXXcHm8_B-2" value="&lt;div&gt;multiple layers in different depth&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="390" y="950" width="161" height="22.17" as="geometry" />
+        </mxCell>
+        <mxCell id="QIYlWhF36AteXXcHm8_B-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.993;exitY=0.589;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitPerimeter=0;" edge="1" parent="1" source="axrHhJeuXgGM3-2XKkUg-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="500" as="sourcePoint" />
+            <mxPoint x="1080" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="450" />
+              <mxPoint x="970" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIYlWhF36AteXXcHm8_B-6" value="&lt;div&gt;Few posibilities:&lt;/div&gt;&lt;div&gt;- Extra JSON files for per point properties&lt;/div&gt;&lt;div&gt;- Change the whole thing to other 3D tiles, e.g. glb??？&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="410" width="220" height="45.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
