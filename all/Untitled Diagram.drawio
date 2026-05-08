@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="RI68FD5dv7n85L2Z1jUc">
-    <mxGraphModel>
+    <mxGraphModel dx="978" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oZTtvs66N51IHJZ3UCVl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="60" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oZTtvs66N51IHJZ3UCVl-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;WP2&lt;/h1&gt;&lt;p&gt;EO constellation tasking&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="270" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="oZTtvs66N51IHJZ3UCVl-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;WP3&lt;/h1&gt;&lt;p&gt;EO constellation evaluation&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="450" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="oZTtvs66N51IHJZ3UCVl-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;WP4&lt;/h1&gt;&lt;p&gt;EO constellation configuration&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="630" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="oZTtvs66N51IHJZ3UCVl-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;WP1&lt;/h1&gt;&lt;p&gt;Extreme incident forecast&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="360" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oZTtvs66N51IHJZ3UCVl-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;WP5&lt;/h1&gt;&lt;p&gt;Digital twin for EO constellation&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="540" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
